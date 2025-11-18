@@ -1,6 +1,14 @@
-22:15:18.112 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-22:15:18.119 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-22:15:19.258 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-22:15:19.415 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** Running on Selenium Grid *****
-22:17:16.121 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-22:17:18.713 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
+22:40:30.509 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
+22:40:30.726 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
+22:40:31.062 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
+22:40:31.062 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
+22:40:32.304 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
+22:41:44.231 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
+22:41:46.588 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
+23:35:39.199 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
+23:35:39.256 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
+23:35:39.455 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
+23:35:39.456 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
+23:35:40.390 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
+23:35:42.618 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
+23:35:43.963 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****

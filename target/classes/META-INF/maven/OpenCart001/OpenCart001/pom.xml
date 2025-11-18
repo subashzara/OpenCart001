@@ -30,7 +30,7 @@
           <version>3.5.4</version>
 		  <configuration>
 			<suiteXmlFiles>
-				<suiteXmlFile>grid.xml</suiteXmlFile>
+				<suiteXmlFile>master.xml</suiteXmlFile>
 			</suiteXmlFiles>
 		  </configuration>
 				  
