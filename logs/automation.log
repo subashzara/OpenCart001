@@ -1,53 +1,18 @@
-12:55:11.246 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-12:55:11.485 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-12:55:11.485 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-12:55:12.407 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-13:31:17.702 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-13:31:19.901 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
-13:31:24.537 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-13:31:24.600 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-13:31:24.769 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-13:31:24.769 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-13:31:25.568 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-13:32:50.006 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-13:32:51.330 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
-13:32:53.332 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-13:32:53.377 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-13:32:53.548 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-13:32:53.548 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-13:32:54.365 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-13:33:34.911 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-13:33:36.265 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
-13:33:39.051 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-13:33:39.092 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-13:33:39.281 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-13:33:39.282 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-13:33:40.162 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-14:00:50.224 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-14:00:51.530 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
-14:00:53.722 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-14:00:53.760 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-14:00:53.985 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-14:00:53.985 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-14:00:54.786 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-14:02:47.398 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-14:02:48.754 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
-14:02:52.872 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-14:02:52.910 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-14:02:53.082 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-14:02:53.082 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-14:02:53.861 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-14:26:50.294 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-14:26:51.652 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
-14:26:53.859 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-14:26:53.898 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-14:26:54.077 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-14:26:54.077 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-14:26:54.939 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-14:28:06.247 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-14:28:07.555 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
-14:28:09.614 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-14:28:09.652 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-14:28:09.815 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-14:28:09.815 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-14:28:10.712 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
+20:41:51.068 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
+20:41:51.283 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
+20:41:51.283 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
+20:41:52.529 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
+21:25:33.453 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
+21:25:35.168 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
+21:25:38.015 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
+21:25:38.133 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
+21:25:38.329 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
+21:25:38.329 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
+21:25:39.153 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
+21:25:48.620 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
+21:25:48.893 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
+21:25:49.232 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
+21:25:49.232 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
+21:25:50.515 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
+21:25:55.953 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
+21:25:58.371 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
