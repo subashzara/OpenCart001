@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" thread-count="5" parallel="tests">
+
+  <test  name="FirefoxTest">
+  	<parameter name="os" 		value="Macos"/>
+	<parameter name="browser" 	value="firefox"/>
+    <classes>
+      <class name="testCase.TC001_AccountRegistarionTest"/>
+    </classes>
+  </test> 
+  
+   <test name="ChromeTest">
+  	<parameter name="os" 		value="Macos"/>
+	<parameter name="browser" 	value="Chrome"/>
+    <classes>
+      <class name="testCase.TC001_AccountRegistarionTest"/>
+    </classes>
+  </test> 
+  
+</suite> 
