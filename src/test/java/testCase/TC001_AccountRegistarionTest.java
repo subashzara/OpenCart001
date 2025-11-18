@@ -5,8 +5,9 @@ import org.testng.AssertJUnit;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testbase.BaseClass;
+import testbase.BaseClass1;
 
-public class TC001_AccountRegistarionTest extends BaseClass
+public class TC001_AccountRegistarionTest extends BaseClass1
 {
 	
 

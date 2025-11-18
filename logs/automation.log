@@ -1,18 +1,6 @@
-20:41:51.068 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-20:41:51.283 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-20:41:51.283 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-20:41:52.529 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-21:25:33.453 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-21:25:35.168 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
-21:25:38.015 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-21:25:38.133 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-21:25:38.329 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-21:25:38.329 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-21:25:39.153 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-21:25:48.620 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Stated ******
-21:25:48.893 [main] INFO  testCase.TC002_LoginTest - ****** MyAccClicked ******
-21:25:49.232 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
-21:25:49.232 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
-21:25:50.515 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
-21:25:55.953 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
-21:25:58.371 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****
+22:15:18.112 [main] INFO  testCase.TC002_LoginTest - ****** LoginClicked ******
+22:15:18.119 [main] INFO  testCase.TC002_LoginTest - ****** Clicked Loggon Button ******
+22:15:19.258 [main] INFO  testCase.TC002_LoginTest - ****** Test TC002_LoginTest Finished ******
+22:15:19.415 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** Running on Selenium Grid *****
+22:17:16.121 [main] INFO  testCase.TC001_AccountRegistarionTest - ******  Testing Started *****
+22:17:18.713 [main] INFO  testCase.TC001_AccountRegistarionTest - ***** TestPassed *****

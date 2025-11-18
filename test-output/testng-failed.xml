@@ -15,13 +15,6 @@
           <include name="setup"/>
         </methods>
       </class> <!-- testCase.TC002_LoginTest -->
-      <class name="testCase.TC001_AccountRegistarionTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verify_account_Registration"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCase.TC001_AccountRegistarionTest -->
     </classes>
   </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [MasterSuite] -->
