@@ -1,0 +1,20 @@
+pipeline {
+    agent any
+    tools {
+        maven 'Maven'  // Match the name in Global Tool Configuration
+    }
+    stages {
+        stage('Checkout') {
+            steps {
+                // Clean workspace before checkout
+                deleteDir()
+                git branch: 'main', url: 'https://github.com/subashzara/OpenCart001.git'
+            }
+        }
+        stage('Build & Test') {
+            steps {
+                sh "mvn clean test"
+            }
+        }
+    }
+}
